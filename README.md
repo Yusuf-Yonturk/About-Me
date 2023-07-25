@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Merhaba, Ben Yusuf! 👋</h1>
-  <img src="https://avatars.githubusercontent.com/u/140352702?v=4" alt="Profil Resminiz">
+  
+  <img src="https://avatars.githubusercontent.com/u/140352702?s=400&u=8a57278ce7a8df692ee4d9fccc2249269ca0336b&v=4" alt="Profil Resmim" style="border-radius: 50%; border: 5px solid #00FF00;">
 </div>
 
 ## 🚀 Hakkımda
@@ -32,6 +33,7 @@ Yazılım dünyasında kendimi geliştirmek için öğrenmeye çalıştığım b
 
 - E-posta:  techvisionaryx@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yusuf-yont%C3%BCrk-297223285/
+
 ## 🤝 Katkılar ve İletişim
 
 Bu projeler üzerinde çalışmak ve diğer geliştiricilerle işbirliği yapmak benim için önemlidir. Geri bildirimlerinizi ve işbirliği tekliflerinizi bekliyorum. GitHub profilimi takip edebilir ve projelerime yıldız ekleyerek destek olabilirsiniz.
