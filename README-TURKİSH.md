@@ -32,7 +32,7 @@ Yazılım dünyasında kendimi geliştirmek için öğrenmeye çalıştığım b
 ## 📫 İletişim
 
 - E-posta:  techvisionaryx@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yusuf-yont%C3%BCrk-297223285/
+- LinkedIn: [Profilim](https://www.linkedin.com/in/yusuf-yont%C3%BCrk-297223285/)
 
 ## 🤝 Katkılar ve İletişim
 
