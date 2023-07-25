@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Merhaba, Ben Yusuf! 👋</h1>
-  <img src="link/to/profile/image.png" alt="Profil Resminiz">
+  <img src="https://avatars.githubusercontent.com/u/140352702?v=4" alt="Profil Resminiz">
 </div>
 
 ## 🚀 Hakkımda
