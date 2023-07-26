@@ -6,28 +6,9 @@
 
 ## 🚀 About Me
 
-I am Yusuf, a software engineering student currently studying at Firat University. My passion and curiosity for technology have driven me to constantly learn new things and improve myself in the world of software development.
+I'm Yusuf, a software engineering student currently studying at Fırat University. My passion for technology and curiosity constantly drive me to learn new things and improve myself in the world of software.
 
-## 💻 My Projects
-
-Here are some interesting projects I have worked on and I am excited about:
-
-- Coming Soon (To Be Announced)
-- Coming Soon (To Be Announced)
-- Coming Soon (To Be Announced)
-  
-You can visit my GitHub page to see more of my projects and work. (Coming Soon)
-
-## 🌱 Technologies & Skills
-
-Some of the technologies and languages I am currently learning and improving in the software world include:
-
-- Programming Languages: Java, C, C++, C#
-- Front-end: HTML, CSS, React
-- Back-end: Node.js, Express
-- Database: MongoDB, PostgreSQL
-- Version Control: Git, GitHub
-- Tools: Visual Studio Code, Postman, Eclipse
+System.out.println("TO BE CONTINUED :)")
 
 ## 📫 Contact Me
 
