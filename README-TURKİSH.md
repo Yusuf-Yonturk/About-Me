@@ -12,7 +12,7 @@ System.out.println("DEVAMI GELECEKTİR")
 
 ## 📫 İletişim
 
-- E-posta:  techvisionaryx@gmail.com
+- E-posta:  yusuf.yonturk@techxvisionary.com
 - LinkedIn: [Profilim](https://www.linkedin.com/in/yusuf-yont%C3%BCrk-297223285/)
 
 
