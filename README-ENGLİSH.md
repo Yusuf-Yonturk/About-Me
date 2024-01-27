@@ -12,7 +12,7 @@ System.out.println("TO BE CONTINUED :)")
 
 ## 📫 Contact Me
 
-- Email: yusuf.yonturk@techxvisionary.com
+- Email: yusufyonturk.kisisel@gmail.com
 - LinkedIn: [My Profile](https://www.linkedin.com/in/yusuf-yont%C3%BCrk/)
 
 ## 🤝 Contributions & Communication
