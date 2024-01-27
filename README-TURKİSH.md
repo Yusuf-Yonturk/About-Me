@@ -6,7 +6,7 @@
 
 ## 🚀 Hakkımda
 
-Ben Yusuf, şu anda Fırat Üniversitesi'nde bilgisayar mühendisliği öğrencisiyim. Teknolojiye olan tutkum ve merakım, sürekli olarak yeni şeyler öğrenmeme ve yazılım dünyasında kendimi geliştirmeme sebep olmaktadır.
+Ben Yusuf, şu anda Beykoz Üniversitesi'nde yazılım mühendisliği öğrencisiyim. Teknolojiye olan tutkum ve merakım, sürekli olarak yeni şeyler öğrenmeme ve yazılım dünyasında kendimi geliştirmeme sebep olmaktadır.
 
 System.out.println("DEVAM EDİLECEK :)")
 
