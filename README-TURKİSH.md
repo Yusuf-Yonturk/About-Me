@@ -12,7 +12,7 @@ System.out.println("DEVAM EDİLECEK :)")
 
 ## 📫 Benimle İletişime Geçin
 
-- E-posta: yusuf.yonturk@techxvisionary.com
+- E-posta: yusufyonturk.kisisel@gmail.com
 - LinkedIn: [My Profile](https://www.linkedin.com/in/yusuf-yont%C3%BCrk/)
 
 ## 🤝 Katkılar ve İletişim
