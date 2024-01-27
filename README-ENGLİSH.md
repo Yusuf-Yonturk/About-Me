@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm Yusuf, a software engineering student currently studying at Fırat University. My passion for technology and curiosity constantly drive me to learn new things and improve myself in the world of software.
+I'm Yusuf, a software engineering student currently studying at Beykoz University. My passion for technology and curiosity constantly drive me to learn new things and improve myself in the world of software.
 
 System.out.println("TO BE CONTINUED :)")
 
